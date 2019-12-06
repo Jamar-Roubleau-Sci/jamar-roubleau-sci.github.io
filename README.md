@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # jamar-roubleau-Portfolio Project
 <!DOCTYPE HTML>
 <html>
@@ -108,3 +109,6 @@
                 </ul>
             </div>
         </main>
+=======
+# jamar-roubleau-sci.github.io
+>>>>>>> f32529fda9ec6db2c9b6906a40e1a7d9dc4e4049
